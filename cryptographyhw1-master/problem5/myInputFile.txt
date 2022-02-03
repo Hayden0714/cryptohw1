@@ -1,0 +1,2 @@
+This is the input file for my own line of plaintext
+I am typing this because the instructions need me to type out a line of about 50 characters for use inside of my own input file that my encryption and decryption algorithm will be handling
